@@ -30,4 +30,10 @@
   font-size: 60px;
   padding-top: 140px;
   margin-top: 0;
+  color: green;
+  text-align: center;
+}
+
+.hero h2 {
+  text-align: center;
 }
