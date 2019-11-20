@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ardelleswank/static/css/main.1c886d65.chunk.css",
+    "main.js": "/ardelleswank/static/js/main.6408bed8.chunk.js",
+    "main.js.map": "/ardelleswank/static/js/main.6408bed8.chunk.js.map",
+    "runtime-main.js": "/ardelleswank/static/js/runtime-main.0ce9c4e9.js",
+    "runtime-main.js.map": "/ardelleswank/static/js/runtime-main.0ce9c4e9.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/ardelleswank/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.25b6204a.chunk.js": "/ardelleswank/static/js/2.25b6204a.chunk.js",
+    "static/js/2.25b6204a.chunk.js.map": "/ardelleswank/static/js/2.25b6204a.chunk.js.map",
+    "index.html": "/ardelleswank/index.html",
+    "precache-manifest.54856af86d50edd851f982e13e97cb4c.js": "/ardelleswank/precache-manifest.54856af86d50edd851f982e13e97cb4c.js",
+    "service-worker.js": "/ardelleswank/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/ardelleswank/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.1c886d65.chunk.css.map": "/ardelleswank/static/css/main.1c886d65.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce9c4e9.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.25b6204a.chunk.js",
+    "static/css/main.1c886d65.chunk.css",
+    "static/js/main.6408bed8.chunk.js"
+  ]
+}
