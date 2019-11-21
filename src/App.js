@@ -30,8 +30,8 @@ function App() {
 
 
       <div className="demo-big-content">
-        <Layout>
-          <Header title="Swank PR, L.L.C" scroll>
+        <Layout >
+          <Header title="Swank PR, L.L.C" scroll style={{ backgroundColor:"black"}}>
             <Navigation>
               <Link to="/home">Home</Link>
               <Link to="/about">About</Link>
