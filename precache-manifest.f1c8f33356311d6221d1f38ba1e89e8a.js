@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51c50befb7cffe7200529363f4ffc0b2",
+    "revision": "f3fb8a28fb317f4bf19070e92c9a6618",
     "url": "/ardelle_swank/index.html"
   },
   {
-    "revision": "61b3f2145627af6e4b0f",
+    "revision": "3b5e3061ec9c079b306e",
     "url": "/ardelle_swank/static/css/2.9ff5004b.chunk.css"
   },
   {
-    "revision": "54c4e5d70d4e8473c96e",
+    "revision": "76b7937a146f6d6d19a4",
     "url": "/ardelle_swank/static/css/main.5e5813a7.chunk.css"
   },
   {
-    "revision": "61b3f2145627af6e4b0f",
-    "url": "/ardelle_swank/static/js/2.cf446a2d.chunk.js"
+    "revision": "3b5e3061ec9c079b306e",
+    "url": "/ardelle_swank/static/js/2.55d1d333.chunk.js"
   },
   {
-    "revision": "54c4e5d70d4e8473c96e",
-    "url": "/ardelle_swank/static/js/main.e7acdc9f.chunk.js"
+    "revision": "76b7937a146f6d6d19a4",
+    "url": "/ardelle_swank/static/js/main.9ce357ba.chunk.js"
   },
   {
     "revision": "52b8fa3bc6866a7e3725",
