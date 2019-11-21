@@ -47,7 +47,9 @@ function About() {
           </Col>
         </Row>
       </Container>
+
       <Footer />
+      
     </div>
   );
 }

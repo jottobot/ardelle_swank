@@ -1,10 +1,12 @@
 import React from "react";
-import Hero from "../components/Hero";
 //
 import Container from 'react-bootstrap/Container'
 // import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { Card, CardActions, CardMenu, CardTitle, CardText, Button, IconButton } from "react-mdl";
+//
+import Footer from "../components/Footer";
+import Hero from "../components/Hero";
 
 function Clients() {
   return (
@@ -78,6 +80,7 @@ function Clients() {
         </Card>
       </Row>
 
+      <Footer />
     </div>
   );
 }
