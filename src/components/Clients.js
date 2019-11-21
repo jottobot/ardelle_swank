@@ -1,8 +1,10 @@
 import React from "react";
 import Hero from "../components/Hero";
+//
 import Container from 'react-bootstrap/Container'
 // import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
+import { Card, CardActions, CardMenu, CardTitle, CardText, Button, IconButton } from "react-mdl";
 
 function Clients() {
   return (
@@ -13,9 +15,68 @@ function Clients() {
 
       <Container style={{ paddingTop: 30, paddingLeft: 30, paddingRight: 30, paddingBottom: 30, backgroundColor: "white" }}>
         <Row>
-          <p>Hoping to put some sort of grid like table here for clients. Will have the company's photo and a description of what you did.</p>
+          <p>At Swank, our clients mean the world to us BLAH BLAH.</p>
         </Row>
       </Container>
+
+      <Row>
+        <Card shadow={0} style={{ width: '400px', margin: 'auto', marginTop: "50px", marginBottom: "50px" }}>
+          <CardTitle style={{ color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover' }}>CLIENT NAME</CardTitle>
+          <CardText>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Mauris sagittis pellentesque lacus eleifend lacinia...
+        </CardText>
+          {/* <CardActions border>
+          <Button colored>Get Started</Button>
+        </CardActions> */}
+          {/* <CardMenu style={{ color: '#fff' }}>
+          <IconButton name="share" />
+        </CardMenu> */}
+        </Card>
+
+        <Card shadow={0} style={{ width: '400px', margin: 'auto', marginTop: "50px", marginBottom: "50px" }}>
+          <CardTitle style={{ color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover' }}>CLIENT NAME</CardTitle>
+          <CardText>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Mauris sagittis pellentesque lacus eleifend lacinia...
+        </CardText>
+          {/* <CardActions border>
+          <Button colored>Get Started</Button>
+        </CardActions> */}
+          {/* <CardMenu style={{ color: '#fff' }}>
+          <IconButton name="share" />
+        </CardMenu> */}
+        </Card>
+      </Row>
+
+      <Row>
+        <Card shadow={0} style={{ width: '400px', margin: 'auto', marginTop: "50px", marginBottom: "50px" }}>
+          <CardTitle style={{ color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover' }}>CLIENT NAME</CardTitle>
+          <CardText>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Mauris sagittis pellentesque lacus eleifend lacinia...
+        </CardText>
+          {/* <CardActions border>
+          <Button colored>Get Started</Button>
+        </CardActions> */}
+          {/* <CardMenu style={{ color: '#fff' }}>
+          <IconButton name="share" />
+        </CardMenu> */}
+        </Card>
+        <Card shadow={0} style={{ width: '400px', margin: 'auto', marginTop: "50px", marginBottom: "50px" }}>
+          <CardTitle style={{ color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover' }}>CLIENT NAME</CardTitle>
+          <CardText>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Mauris sagittis pellentesque lacus eleifend lacinia...
+        </CardText>
+          {/* <CardActions border>
+          <Button colored>Get Started</Button>
+        </CardActions> */}
+          {/* <CardMenu style={{ color: '#fff' }}>
+          <IconButton name="share" />
+        </CardMenu> */}
+        </Card>
+      </Row>
 
     </div>
   );
