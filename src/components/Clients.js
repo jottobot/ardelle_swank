@@ -3,7 +3,9 @@ import React from "react";
 import Container from 'react-bootstrap/Container'
 // import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import { Card, CardActions, CardMenu, CardTitle, CardText, Button, IconButton } from "react-mdl";
+import { Card, CardTitle, CardText } from "react-mdl";
+// import { Card, CardActions, CardMenu, CardTitle, CardText, Button, IconButton } from "react-mdl";
+
 //
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";

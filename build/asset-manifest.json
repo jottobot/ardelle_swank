@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ardelle_swank/static/css/main.87a0f6c3.chunk.css",
-    "main.js": "/ardelle_swank/static/js/main.daab09e5.chunk.js",
-    "main.js.map": "/ardelle_swank/static/js/main.daab09e5.chunk.js.map",
+    "main.js": "/ardelle_swank/static/js/main.fa211865.chunk.js",
+    "main.js.map": "/ardelle_swank/static/js/main.fa211865.chunk.js.map",
     "runtime-main.js": "/ardelle_swank/static/js/runtime-main.3de5e2cc.js",
     "runtime-main.js.map": "/ardelle_swank/static/js/runtime-main.3de5e2cc.js.map",
     "static/css/2.9ff5004b.chunk.css": "/ardelle_swank/static/css/2.9ff5004b.chunk.css",
     "static/js/2.da0c2e5b.chunk.js": "/ardelle_swank/static/js/2.da0c2e5b.chunk.js",
     "static/js/2.da0c2e5b.chunk.js.map": "/ardelle_swank/static/js/2.da0c2e5b.chunk.js.map",
     "index.html": "/ardelle_swank/index.html",
-    "precache-manifest.bb50cb7f6b1098b3f4fc967538ab537a.js": "/ardelle_swank/precache-manifest.bb50cb7f6b1098b3f4fc967538ab537a.js",
+    "precache-manifest.2b780abd22b711324950310ed3d7f751.js": "/ardelle_swank/precache-manifest.2b780abd22b711324950310ed3d7f751.js",
     "service-worker.js": "/ardelle_swank/service-worker.js",
     "static/css/2.9ff5004b.chunk.css.map": "/ardelle_swank/static/css/2.9ff5004b.chunk.css.map",
     "static/css/main.87a0f6c3.chunk.css.map": "/ardelle_swank/static/css/main.87a0f6c3.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.9ff5004b.chunk.css",
     "static/js/2.da0c2e5b.chunk.js",
     "static/css/main.87a0f6c3.chunk.css",
-    "static/js/main.daab09e5.chunk.js"
+    "static/js/main.fa211865.chunk.js"
   ]
 }
