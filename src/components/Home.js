@@ -15,6 +15,7 @@ class Home extends Component {
           <h1>SWANK PR, L.L.C.</h1>
           <h2>"Own it, someone has to"</h2>
         </Hero>
+
         <div style={{ paddingTop: 30, paddingLeft: 30, paddingRight: 30, paddingBottom: 30, backgroundColor: "black" }}>
           <Row>
             <Col size="md-12">
