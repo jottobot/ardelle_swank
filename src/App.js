@@ -14,7 +14,7 @@ class App extends Component {
           <Layout >
             <Header title="Swank PR, L.L.C" scroll style={{ backgroundColor: "black" }}>
               <Navigation>
-                <Link to="/home">Home</Link>
+                {/* <Link to="/home">Home</Link> */}
                 <Link to="/about">About</Link>
                 <Link to="/services">Services</Link>
                 <Link to="/clients">Clients</Link>
@@ -22,7 +22,7 @@ class App extends Component {
             </Header>
             <Drawer title="Swank PR, L.L.C">
               <Navigation>
-                <Link to="/home">Home</Link>
+                {/* <Link to="/home">Home</Link> */}
                 <Link to="/about">About</Link>
                 <Link to="/services">Services</Link>
                 <Link to="/clients">Clients</Link>
