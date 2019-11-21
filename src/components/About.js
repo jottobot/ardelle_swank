@@ -1,5 +1,8 @@
 import React from "react";
+//
 import Hero from "../components/Hero";
+import Footer from "../components/Footer";
+//
 import Container from 'react-bootstrap/Container'
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
@@ -44,7 +47,7 @@ function About() {
           </Col>
         </Row>
       </Container>
-
+      <Footer />
     </div>
   );
 }
