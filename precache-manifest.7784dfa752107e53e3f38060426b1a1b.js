@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1e9659725eedcf5a2e2f2aa4ee1f40e",
+    "revision": "51c50befb7cffe7200529363f4ffc0b2",
     "url": "/ardelle_swank/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ardelle_swank/static/css/2.9ff5004b.chunk.css"
   },
   {
-    "revision": "aa84ad3b952f5482b683",
+    "revision": "54c4e5d70d4e8473c96e",
     "url": "/ardelle_swank/static/css/main.5e5813a7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ardelle_swank/static/js/2.cf446a2d.chunk.js"
   },
   {
-    "revision": "aa84ad3b952f5482b683",
-    "url": "/ardelle_swank/static/js/main.a51d4ca0.chunk.js"
+    "revision": "54c4e5d70d4e8473c96e",
+    "url": "/ardelle_swank/static/js/main.e7acdc9f.chunk.js"
   },
   {
     "revision": "52b8fa3bc6866a7e3725",
